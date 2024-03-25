@@ -2,7 +2,7 @@
 MATLAB demo code of DAMP for discrete-valued vector reconstruction
 
 ## Author
-[Ryo Hayakawa](https://rhayakawa.github.io/index-e.html) (e-mail: rhayakawa@sys.es.osaka-u.ac.jp)
+[Ryo Hayakawa](https://rhayakawa.github.io/index-e.html)
 
 ## Article
 Ryo Hayakawa and Kazunori Hayashi,  
